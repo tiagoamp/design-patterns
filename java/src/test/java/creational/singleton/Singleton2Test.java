@@ -1,8 +1,10 @@
-package creational;
+package creational.singleton;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import creational.singleton.Singleton2;
 
 public class Singleton2Test {
 
