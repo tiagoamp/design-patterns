@@ -1,4 +1,4 @@
-package creational;
+package creational.singleton;
 
 /**
  * Classic Singleton implementation
