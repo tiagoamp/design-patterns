@@ -5,3 +5,6 @@ Design Patterns implementations
 1. Singleton
 1. Factory Method
 1. TO DO...
+
+
+_Work in Progress..._
