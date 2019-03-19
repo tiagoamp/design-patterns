@@ -5,6 +5,7 @@ Design Patterns implementations
 1. Singleton
 1. Factory Method
 1. Abstract Factory
+1. Builder
 1. TO DO...
 
 
