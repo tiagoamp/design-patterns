@@ -11,5 +11,8 @@ Design Patterns implementations
 ## Behavioral Design Patterns
 1. Strategy
 
+## Structural Design Patterns
+1. Adapter
+
 
 _Work in Progress..._
