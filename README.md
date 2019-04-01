@@ -13,6 +13,7 @@ Design Patterns implementations
 
 ## Structural Design Patterns
 1. Adapter
+1. Bridge
 
 
 _Work in Progress..._
