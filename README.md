@@ -14,6 +14,7 @@ Design Patterns implementations
 ## Structural Design Patterns
 1. Adapter
 1. Bridge
+1. Proxy
 
 
 _Work in Progress..._
