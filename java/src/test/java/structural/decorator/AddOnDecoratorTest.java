@@ -25,6 +25,20 @@ public class AddOnDecoratorTest {
 	}
 	
 	@Test
+	public void testAllIncludedSandwich_inlineOddInstantiation() {
+		// given
+		Sandwich sandwichWithBaconAndCheddar = new CheddarAddOnDecorator(new BaconAddOnDecorator(new StandardSandwich()));
+		// when 
+		String description = sandwichWithBaconAndCheddar.getDescription();
+		Float totalCost = sandwichWithBaconAndCheddar.cost();
+		// then
+		assertTrue(description.contains("Sandwich"));
+		assertTrue(description.contains("bacon"));
+		assertTrue(description.contains("cheddar"));
+		assertEquals(5F + 2F + 1F, totalCost, 0.01);
+	}
+	
+	@Test
 	public void testSandwichWithOnlyBaconAddOn() {
 		// given
 		Sandwich sandwich = new StandardSandwich();
