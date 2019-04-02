@@ -15,6 +15,7 @@ Design Patterns implementations
 1. Adapter
 1. Bridge
 1. Proxy
+1. Decorator
 
 
 _Work in Progress..._
