@@ -16,6 +16,7 @@ Design Patterns implementations
 1. Bridge
 1. Proxy
 1. Decorator
+1. Composite
 
 
 _Work in Progress..._
