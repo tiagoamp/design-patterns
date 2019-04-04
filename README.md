@@ -17,6 +17,7 @@ Design Patterns implementations
 1. Proxy
 1. Decorator
 1. Composite
+1. Facade
 
 
 _Work in Progress..._
