@@ -10,6 +10,7 @@ Design Patterns implementations
 
 ## Behavioral Design Patterns
 1. Strategy
+1. Observer
 
 ## Structural Design Patterns
 1. Adapter
