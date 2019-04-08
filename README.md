@@ -11,6 +11,7 @@ Design Patterns implementations
 ## Behavioral Design Patterns
 1. Strategy
 1. Observer
+1. Template Method
 
 ## Structural Design Patterns
 1. Adapter
