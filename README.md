@@ -9,8 +9,8 @@ Design Patterns implementations
 1. Prototype (creates objects by cloning an existing object)
 
 ## Behavioral Design Patterns
-1. Strategy
-1. Observer
+1. Strategy (allows one of a family of algorithms to be selected on-the-fly at runtime)
+1. Observer (is a publish/subscribe pattern which allows a number of observer objects to see an event)
 1. Template Method
 1. State
 
