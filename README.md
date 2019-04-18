@@ -16,7 +16,7 @@ Design Patterns implementations
 
 ## Structural Design Patterns
 1. Adapter (allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class)
-1. Bridge
+1. Bridge (decouples an abstraction from its implementation so that the two can vary independently)
 1. Proxy
 1. Decorator
 1. Composite
