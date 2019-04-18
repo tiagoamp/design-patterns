@@ -15,7 +15,7 @@ Design Patterns implementations
 1. State (allows an object to alter its behavior when its internal state changes)
 
 ## Structural Design Patterns
-1. Adapter
+1. Adapter (allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class)
 1. Bridge
 1. Proxy
 1. Decorator
