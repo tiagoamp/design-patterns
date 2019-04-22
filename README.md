@@ -2,11 +2,11 @@
 Design Patterns implementations
 
 ## Creational Design Patterns
-1. Singleton (restricts object creation for a class to only one instance)
-1. Factory Method (creates objects without specifying the exact class to create)
-1. Abstract Factory (groups object factories that have a common theme)
-1. Builder (constructs complex objects by separating construction and representation)
-1. Prototype (creates objects by cloning an existing object)
+1. __Singleton__ (restricts object creation for a class to only one instance)
+1. __Factory__ Method (creates objects without specifying the exact class to create)
+1. __Abstract__ Factory (groups object factories that have a common theme)
+1. __Builder__ (constructs complex objects by separating construction and representation)
+1. __Prototype__ (creates objects by cloning an existing object)
 
 ## Behavioral Design Patterns
 1. Strategy (allows one of a family of algorithms to be selected on-the-fly at runtime)
