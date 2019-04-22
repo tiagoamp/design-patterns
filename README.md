@@ -19,5 +19,5 @@ Design Patterns implementations
 1. Bridge (decouples an abstraction from its implementation so that the two can vary independently)
 1. Proxy (provides a placeholder for another object to control access, reduce cost, and reduce complexity)
 1. Decorator (dynamically adds/overrides behaviour in an existing method of an object)
-1. Composite
-1. Facade
+1. Composite (composes zero-or-more similar objects so that they can be manipulated as one object)
+1. Facade (provides a simplified interface to a large body of code)
