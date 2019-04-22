@@ -1,4 +1,4 @@
-# Design-Patterns
+# Design Patterns
 Design Patterns implementations
 
 ## Creational Design Patterns
@@ -15,9 +15,9 @@ Design Patterns implementations
 1. __State__ (allows an object to alter its behavior when its internal state changes)
 
 ## Structural Design Patterns
-1. Adapter (allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class)
-1. Bridge (decouples an abstraction from its implementation so that the two can vary independently)
-1. Proxy (provides a placeholder for another object to control access, reduce cost, and reduce complexity)
-1. Decorator (dynamically adds/overrides behaviour in an existing method of an object)
-1. Composite (composes zero-or-more similar objects so that they can be manipulated as one object)
-1. Facade (provides a simplified interface to a large body of code)
+1. __Adapter__ (allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class)
+1. __Bridge__ (decouples an abstraction from its implementation so that the two can vary independently)
+1. __Proxy__ (provides a placeholder for another object to control access, reduce cost, and reduce complexity)
+1. __Decorator__ (dynamically adds/overrides behaviour in an existing method of an object)
+1. __Composite__ (composes zero-or-more similar objects so that they can be manipulated as one object)
+1. __Facade__ (provides a simplified interface to a large body of code)
