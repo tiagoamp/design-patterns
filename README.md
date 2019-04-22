@@ -1,4 +1,4 @@
-# design-patterns
+# Design-Patterns
 Design Patterns implementations
 
 ## Creational Design Patterns
