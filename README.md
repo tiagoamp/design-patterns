@@ -13,6 +13,7 @@ Design Patterns implementations
 1. __Observer__ (is a publish/subscribe pattern which allows a number of observer objects to see an event)
 1. __Template__ Method (defines the skeleton of an algorithm as an abstract class, allowing its subclasses to provide concrete behavior)
 1. __State__ (allows an object to alter its behavior when its internal state changes)
+1. __Memento__ (provides the ability to restore an object to its previous state)
 
 ## Structural Design Patterns
 1. __Adapter__ (allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class)
