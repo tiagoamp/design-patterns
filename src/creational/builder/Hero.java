@@ -12,7 +12,7 @@ public class Hero {
 
     private String weapon;
 
-
+    
     public String getName() {
         return name;
     }

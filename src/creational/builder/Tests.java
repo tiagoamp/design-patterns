@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class Tests {
 
     @Test
-    @DisplayName("When instanciate a class with builder methods, should set proper attributes")
+    @DisplayName("When instantiate a class with builder methods, should set proper attributes")
     void test1() {
         Hero hero = new HeroBuilder().withName("Conan").withWeapon("Sword").build();
         assertNotNull(hero);
@@ -17,7 +17,7 @@ public class Tests {
     }
 
     @Test
-    @DisplayName("When instanciate a class with builder methods, should set proper attributes")
+    @DisplayName("When instantiate a class with builder methods, should set proper attributes")
     void test2() {
         HeroInnerBuilder hero = new HeroInnerBuilder.Builder().withName("Conan").withWeapon("Sword").build();
         assertNotNull(hero);
@@ -26,7 +26,7 @@ public class Tests {
     }
 
     @Test
-    @DisplayName("When instanciate a class with builder methods, should set proper attributes")
+    @DisplayName("When instantiate a class with builder methods, should set proper attributes")
     void test3() {
         HeroLombok hero = HeroLombok.builder().name("Conan").weapon("Sword").build();
         assertNotNull(hero);
