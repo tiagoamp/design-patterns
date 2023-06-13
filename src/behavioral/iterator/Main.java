@@ -1,7 +1,9 @@
 package behavioral.iterator;
 
 import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.TreeSet;
 
 public class Main {
 
@@ -14,10 +16,23 @@ public class Main {
             System.out.println(next);
         }
 
-        List<Integer> numbers = List.of(20, 30, 40);
+        LinkedList<Integer> numbers = new LinkedList<>();
+        numbers.add(20);
+        numbers.add(30);
+        numbers.add(40);
         Iterator<Integer> iteratorNr = numbers.iterator();
         while (iteratorNr.hasNext()) {
             Integer next = iteratorNr.next();
+            System.out.println(next);
+        }
+
+        TreeSet<Integer> numbers2 = new TreeSet<>();
+        numbers2.add(20);
+        numbers2.add(30);
+        numbers2.add(40);
+        Iterator<Integer> iteratorNr2 = numbers2.iterator();
+        while (iteratorNr2.hasNext()) {
+            Integer next = iteratorNr2.next();
             System.out.println(next);
         }
 
